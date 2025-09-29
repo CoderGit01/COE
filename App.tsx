@@ -46,7 +46,7 @@ const MyFacultyEvents = lazy(() => import('./pages/dashboard/faculty/MyEvents'))
 const MainLayout = () => (
   <div className="flex flex-col min-h-screen">
     <Header />
-    <main className="flex-grow pt-28">
+    <main className="flex-grow bg-gray-100">
       <Suspense fallback={<div className="flex justify-center items-center h-screen text-white">Loading...</div>}>
         <Outlet />
       </Suspense>
@@ -132,5 +132,4 @@ const App = () => {
     </AuthProvider>
   );
 };
-
 export default App;
