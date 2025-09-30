@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 border-t border-orange-500 pt-8 md:flex md:items-center md:justify-between">
           <p className="mt-8 text-base text-orange-200 md:mt-0 md:order-1">
-            &copy; 2024 Jain University, Center of Excellence. All rights reserved.
+            &copy; 2025 Jain University, Center of Excellence. All rights reserved.
           </p>
         </div>
       </div>
