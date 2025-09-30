@@ -13,7 +13,7 @@ const NavItem: React.FC<{ to: string; children: React.ReactNode }> = ({ to, chil
       `px-4 py-2 rounded-md text-sm font-medium transition-all duration-300 ${
         isActive
           ? 'text-orange-400 drop-shadow-[0_0_8px_rgba(255,149,28,0.8)] scale-105'
-          : 'text-gray-300 hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(255,149,28,0.7)] hover:scale-105'
+          : 'text-black-300 hover:text-orange-400 hover:drop-shadow-[0_0_8px_rgba(255,149,28,0.7)] hover:scale-105'
       }`
     }
   >
