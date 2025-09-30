@@ -162,7 +162,7 @@ const HomePage = () => {
                     {/* Center of Excellence */}
                     <div>
                          <div className="text-center mb-12">
-                            <h2 className="text-3xl font-bold text-white sm:text-4xl">Center of Excellence in FETJU</h2>
+                            <h2 className="text-3xl font-bold text-white sm:text-4xl">Center of Excellence in FET Jain University</h2>
                             <p className="mt-4 text-lg text-gray-300">Fostering specialized research and innovation across key domains.</p>
                         </div>
                          <div className="max-w-3xl mx-auto bg-black/20 backdrop-blur-md border border-white/30 rounded-lg overflow-hidden">
