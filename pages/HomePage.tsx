@@ -107,7 +107,7 @@ const HomePage = () => {
                                     textShadow: '2px 2px 4px rgba(0, 0, 0, 0.7)',
                                     fontSize: '2.5rem'
                                 }}
-                                >Department. Computer Science and Engineering</p>
+                                >Department of Computer Science and Engineering</p>
                                 {/* Final Logo: High-resolution and sharp */}
                                 <img 
                                     src="https://i.postimg.cc/wB0z9ZVM/Centerofexe.png" 
